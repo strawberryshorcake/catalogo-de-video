@@ -1,4 +1,24 @@
 body{
     color:white;
     background: black;
+    margin:0px;
+}
+
+header{
+    border-bottom:solid 2px rgb(13, 121, 13);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(6, 117, 6);
+}
+
+section {
+    background:rgb(39, 66, 39)
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.camada-texto {
+    margin-right: 5%;
 }
